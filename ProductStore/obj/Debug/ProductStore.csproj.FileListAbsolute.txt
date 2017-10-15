@@ -1,0 +1,10 @@
+D:\FALL 2017\C#\ProductStore\ProductStore\bin\Debug\ProductStore.exe.config
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.frmMaintainProducts.resources
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.frmProductDetails.resources
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.Properties.Resources.resources
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.GenerateResource.Cache
+D:\FALL 2017\C#\ProductStore\ProductStore\bin\Debug\ProductStore.exe
+D:\FALL 2017\C#\ProductStore\ProductStore\bin\Debug\ProductStore.pdb
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.exe
+D:\FALL 2017\C#\ProductStore\ProductStore\obj\Debug\ProductStore.pdb
